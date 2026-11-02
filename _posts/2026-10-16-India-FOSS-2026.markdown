@@ -1,0 +1,74 @@
+---
+layout: post  
+title: My First INDIA FOSS 2026
+date: 2026-10-16
+---
+# My First INDIA FOSS 2026  
+
+
+## Introduction
+
+[The FOSS United Foundation](https://fossunited.org/), founded in 2020, is a non-profit organization dedicated to fostering Free and Open Source Software (FOSS) projects and communities in India.
+
+This was my first time attending a conference like IndiaFOSS, and I had no idea what to expect. However, I was extremely excited about the event. Who is behind FOSS, and who are the people making it happen? Also, why is FOSS important for students?
+
+## Key Themes and Sessions
+
+The conference featured Devrooms,Workshops,Booths & Community Partners,Communi-Con.  
+
+### [**Devrooms:**](https://fossunited.org/indiafoss/2026/devrooms)
+
+These were selected from an enthusiastic community response to the devroom idea. Devrooms are curated by various communities, represented by the managers of the individual devrooms. Each devroom has a separate CFP that defines the type and kind of proposals the devroom is looking for. 
+
+I attented ***OPEN HARDWARE*** Devroom **Build your own open source keyboard with ZMK/QMK** by [Advait Dhamorikar](https://www.linkedin.com/in/advait-dhamorikar/?isSelfProfile=false)
+
+### Key Takeways:
+- Understand how modern keyboards work, from matrix scanning to USB/Bluetooth HID.
+- Learn the workflow for designing a custom keyboard, from schematic and PCB design to firmware development.
+- Understand how layers, combos, macros, and custom behaviors can improve your workflow.
+ 
+### Booths & Community Partners,Communi-Con.
+
+I love the Booths. Do you know why? They given stickers for free.Just kidding. The Booths helped alot because I am able to clearify many doubt I have.  
+
+###  Booths I find most intreasting :
+The **hardware store**. I saw a many customized keyboard there, hardware which automatical draw and paint,subway sub using hand gesture. Hardware making unique sound when you commit somthing on git-hub
+
+### Communi-Con:  
+
+Attending IndiaFOSS 2026 in-person, and have something interesting to share with fellow attendees ? Everyone has a shot at a 10 minute slot on our biggest stage.
+
+All the submitted proposals will be voted upon by attendees - each ticket is one vote. Proposed by the community, selected by the community. 
+
+## Three sessions stood out to me as particularly impactful:
+
+### 1. From Institution to Community  by  [Mohit P. Tahiliani](https://www.linkedin.com/in/mohittahiliani/?isSelfProfile=false)
+This talk will share the journey of building COSH as one of India's first dedicated academic centers focused on open-source software and hardware, and how it evolved from an institutional initiative into a thriving community of contributors, maintainers, researchers, and industry collaborators.
+
+* He explained how to build a structured pathway for students to move from first-time contributors to open-source maintainers within an academic institution?
+* Approaches for building a self-sustaining ecosystem where students evolve into mentors, maintainers, and community leaders over time.
+
+Things I was searching for a long time. How to connect our learing to workforce. COSH is doing that kind of stuff.
+
+### 2. [Textbooks that run ](https://kcsrk.info/ocaml/teaching/nptel/llm/2026/09/26/textbooks-that-run/)interactive CS education in the browser by [KC Sivaramakrishnan](https://kcsrk.info/)
+
+One of the biggest obstacles a beginner faces with a programming language, especially one outside the mainstream, is the install: toolchains, package managers, editor setup, and version skew that derail a learner before they write a line of code.This talk is about a course book that removes that barrier
+
+The book reads like a notebook, and a single markdown source produces all three views: the page, a reveal.js slide deck, and the runnable cells, so the slides cannot drift from the prose. Quizzes are built into the same format: multiple-choice with explanations, and code-completion challenges whose hidden tests run in the browser.
+
+He also explained about how use of agent helping to Building this
+
+### 3. 15 Years, One Server  by [lakshmipathi ganapathi](https://github.com/Lakshmipathi)
+This talk provides insights about running large educational platform with minimal resources and  how it survived for 15 years on a single Linux server with 8GB ram and helped more than 500,000 users to learn and practice Linux. 
+
+He share lessons from their infra failures, maintenance and challenges of keeping it alive and free for 15 years.
+
+## Actionable Takeaways:
+
+1. I learned that community play a important role in tech. I will start my progress to build my community.
+1. Git and Github are most usefull tools. I will started learning.
+1. I will stared contributing to open-sourse
+
+
+
+    
