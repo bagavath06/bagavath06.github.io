@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "String-Art, Learning-journal-5"
+title: "String-Art"
 date: 2026-09-24
 categories: jekyll update
 ---

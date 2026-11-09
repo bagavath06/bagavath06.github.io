@@ -4,15 +4,31 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+**Hi, I'm Bagavath.**  
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+As a 1st-year Information Science student at Azim Premji University, I’m currently exploring Python, Linux, and microcontrollers.
 
 
-[jekyll-organization]: https://github.com/jekyll
+I’m often a slow learner, and I make plenty of mistakes along the way. But I’ve learned that persistence matters. I embrace the mindset of learning by doing.
+
+
+My main goal is figuring out how technology can genuinely serve society. Right now, I’m focused on:
+
+
+1.Building practical tools: Working on ideas like a digital map for my campus.
+
+
+2.Open Source: Looking to learn from and contribute to open-source projects.
+
+
+3.Community: Helping other beginners who feel overwhelmed at the starting line, because I've been there too.
+
+
+Beyond code, I'm quietly curious about the intersection of tech, storytelling, and cinematography, and how creative mediums can shape future projects.
+
+
+I’m actively looking to connect with fellow builders, find open-source communities to join, and grow my network. Let’s connect and build something meaningful together!
+
+Email: bagavath.b26_ug@apu.edu.in  
+Github: bagavath06
+

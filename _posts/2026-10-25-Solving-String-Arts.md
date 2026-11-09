@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: Activity-2 String-art  
+title: String-art Problems  
 date: 2026-09-25  
 categories: jekyll update  
 ---
