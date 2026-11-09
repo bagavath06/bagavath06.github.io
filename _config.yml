@@ -20,11 +20,11 @@
 
 title: Bagavath B
 email: bagavath.b26_ug@apu.edu.in
-description: >- # this means to ignore newlines until "baseurl:"
+#description: >- # this means to ignore newlines until "baseurl:"
   Hi, I'm Bagavath.
-I’m a first-year Information Science student at Azim Premji University, currently exploring Python, Linux, and microcontrollers.
+#I’m a first-year Information Science student at Azim Premji University, currently exploring Python, Linux, and microcontrollers.
 
-I believe heavily in learning by doing. I might not be the fastest learner, and I make plenty of mistakes along the way, but I’ve found that persistence is what actually matters. Ultimately, my goal is to figure out how technology can genuinely serve society.
+#I believe heavily in learning by doing. I might not be the fastest learner, and I make plenty of mistakes along the way, but I’ve found that persistence is what actually matters. Ultimately, my goal is to figure out how technology can genuinely serve society.
 #baseurl: "/~bagavath-b" # the subpath of your site, e.g. /blog
 #url: "https://coc.apucomputing.in" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
