@@ -6,6 +6,8 @@ categories: jekyll update
 ---
 # String-Art
 
+![](/assets/images/three-circles.svg)  ![](/assets/images/mystic-rose.svg)
+
 ## Indroduction
 String-Art are making patterns by  connecting  the points. I learned to do with Circle.
 
