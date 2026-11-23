@@ -5,7 +5,7 @@ date: 2026-11-23
 ---
 # Building an ESP32 Parking Assistant
 
-
+![](/assets/images/parking_assistance.webp)
 
 ## What I Built:
 In this project, I build a parking assistant from an ESP32 board, an ultrasonic sensor, an LCD display and a buzzer. The sensor measures the distance to a vehicle as it moves towards it. When nothing is near, the display shows "THE Parking Assistance", and when something is, it shows the distance. As the vehicle comes close, the buzzer beeps. When it is very close, the display shows STOP and the buzzer sounds a continuous tone.
